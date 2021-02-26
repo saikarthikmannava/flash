@@ -1,0 +1,5 @@
+insert into Alien values (101,'Karthik','Java')
+insert into Alien values (102,'Karthik','Microservies')
+insert into Alien values (103,'Karthik','Sprigboot')
+insert into Alien values (104,'Karthik','Jenkins')
+insert into Alien values (105,'Karthik','Docker') 
