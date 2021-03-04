@@ -1,1 +1,1 @@
-initial log commands
+initial log commands with rebase
