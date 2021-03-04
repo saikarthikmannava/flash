@@ -1,1 +1,1 @@
-initial log commands with the log
+initial log commands
